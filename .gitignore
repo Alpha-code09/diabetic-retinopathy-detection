@@ -1,5 +1,15 @@
+# Python
 venv/
 __pycache__/
 *.pyc
+
+# ML models
+*.keras
+*.h5
+*.pt
+models/
+Models/
+
+# Frontend
 node_modules/
-.env
+dist/
